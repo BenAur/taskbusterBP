@@ -1,0 +1,24 @@
+1507063247109	geckodriver	INFO	geckodriver 0.19.0
+1507063247120	geckodriver	INFO	Listening on 127.0.0.1:55579
+1507063248645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZY5q7wM6HoCa"
+1507063250187	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507063250189	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507063250201	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507063250203	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507063250653	Marionette	INFO	Enabled via --marionette
+1507063250842	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507063250844	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507063250861	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507063250864	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507063254042	Marionette	INFO	Listening on port 33203
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507063254140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507063254231	Marionette	DEBUG	loaded listener.js
+1507063254291	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507063254344	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507063254354	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507063254354	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507063254438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000."
+1507063254502	Marionette	INFO	New connections will no longer be accepted
+[Child 6402] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6402] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
