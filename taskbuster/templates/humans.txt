@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aurelien Benoit -- Developpeur -- @BenAur
 
 # THANKS
 
-    <name>
+   Marine Mele for her tutoriel
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+    
+    Django
+    HTML5, Boilerplate
+    Twitter, Bookstrap
